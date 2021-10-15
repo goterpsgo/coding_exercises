@@ -21,8 +21,6 @@ class ReverseString:
         self._string = ""
         for cnt in range(size):
             self._string += arr.pop()
-        
-        return self._string
 
 # class instantiation
 rs = ReverseString()
