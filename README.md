@@ -1,6 +1,9 @@
 # coding_exercises
 A dumping ground for stuff I've practiced on.
 
+## reverse_string.py
+Provide a string and it returns another string in letters in reverse order.
+
 ## fizzbuzz.py
 My implementation of fizzbuzz in python3. Run `./fizzbuzz.py` to execute. Change values in `Fizzbuzz` object to see changes in output.
 
